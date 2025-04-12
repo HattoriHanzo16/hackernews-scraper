@@ -1,0 +1,13 @@
+beautifulsoup4==4.12.2
+requests==2.31.0
+numpy==1.24.3
+pandas==2.0.3
+plotly==5.18.0
+python-dateutil==2.8.2
+aiohttp==3.8.6
+robotexclusionrulesparser==1.7.1
+tqdm==4.66.1
+nltk==3.8.1
+kaleido==0.2.1
+sv-ttk==2.6.0
+Pillow==10.2.0
