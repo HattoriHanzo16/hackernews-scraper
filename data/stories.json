@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Nice Things with SVG",
+    "url": "https://fuma-nama.vercel.app/blog/svg-art",
+    "points": 67,
+    "username": "fmerian",
+    "comment_count": 15,
+    "story_id": "43666439",
+    "time": "2025-04-12T17:40:09",
+    "domain": "fuma-nama.vercel.app"
+  },
+  {
+    "title": "Open source and self hostable/private file converter",
+    "url": "https://vert.sh",
+    "points": 315,
+    "username": "sandybonks",
+    "comment_count": 69,
+    "story_id": "43663865",
+    "time": "2025-04-12T12:40:13",
+    "domain": "vert.sh"
+  },
+  {
+    "title": "Tunarr: Create and configure live TV channels from media on your servers",
+    "url": "https://tunarr.com/",
+    "points": 82,
+    "username": "Larrikin",
+    "comment_count": 18,
+    "story_id": "43665201",
+    "time": "2025-04-12T15:26:25",
+    "domain": "tunarr.com"
+  },
+  {
+    "title": "Emacs Lisp Elements",
+    "url": "https://protesilaos.com/emacs/emacs-lisp-elements",
+    "points": 23,
+    "username": "robenkleene",
+    "comment_count": 0,
+    "story_id": "43665046",
+    "time": "2025-04-12T15:09:14",
+    "domain": "protesilaos.com"
+  },
+  {
+    "title": "Paris said au revoir to cars. Air pollution maps reveal a dramatic change",
+    "url": "https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/",
+    "points": 206,
+    "username": "perihelions",
+    "comment_count": 132,
+    "story_id": "43665793",
+    "time": "2025-04-12T16:26:42",
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Google will let companies run Gemini models in their own data centers",
+    "url": "https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html",
+    "points": 342,
+    "username": "jonbaer",
+    "comment_count": 130,
+    "story_id": "43632049",
+    "time": "2025-04-09T13:47:27",
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Dual Kickstart ROM Replacement for Amiga",
+    "url": "https://github.com/cdhooper/kicksmash32",
+    "points": 10,
+    "username": "doener",
+    "comment_count": 0,
+    "story_id": "43666341",
+    "time": "2025-04-12T17:26:28",
+    "domain": "github.com"
+  },
+  {
+    "title": "'Paraparticles' Would Be a Third Kingdom of Quantum Particle",
+    "url": "https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/",
+    "points": 10,
+    "username": "rbanffy",
+    "comment_count": 2,
+    "story_id": "43665831",
+    "time": "2025-04-12T16:29:59",
+    "domain": "www.quantamagazine.org"
+  },
+  {
+    "title": "ArkType: Ergonomic TS validator 100x faster than Zod",
+    "url": "https://arktype.io/",
+    "points": 23,
+    "username": "nathan_phoenix",
+    "comment_count": 7,
+    "story_id": "43665540",
+    "time": "2025-04-12T16:01:34",
+    "domain": "arktype.io"
+  },
+  {
+    "title": "Artie (YC S23) Is Hiring Engineer #3",
+    "url": "https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer",
+    "points": 0,
+    "username": "unknown",
+    "comment_count": 0,
+    "story_id": "43666112",
+    "time": "2025-04-12T17:00:38",
+    "domain": "www.ycombinator.com"
+  },
+  {
+    "title": "One Bug Wasn't Enough: Escalating Twice Through SAP's Setuid Landscape",
+    "url": "https://www.anvilsecure.com/blog/one-bug-wasnt-enough-escalating-twice-through-saps-setuid-landscape.html",
+    "points": 43,
+    "username": "tlxio",
+    "comment_count": 6,
+    "story_id": "43634408",
+    "time": "2025-04-09T16:56:31",
+    "domain": "www.anvilsecure.com"
+  },
+  {
+    "title": "Roo or Cline? We're building a superset",
+    "url": "https://blog.kilocode.ai/p/roo-or-cline-were-building-a-superset",
+    "points": 35,
+    "username": "boleary-gl",
+    "comment_count": 30,
+    "story_id": "43642212",
+    "time": "2025-04-10T09:22:44",
+    "domain": "blog.kilocode.ai"
+  },
+  {
+    "title": "Delusional themes may be more varied than we thought",
+    "url": "https://www.bps.org.uk/research-digest/delusional-themes-may-be-more-varied-we-thought",
+    "points": 43,
+    "username": "domofutu",
+    "comment_count": 36,
+    "story_id": "43641649",
+    "time": "2025-04-10T07:47:46",
+    "domain": "www.bps.org.uk"
+  },
+  {
+    "title": "The Solid-State Shift: Reinventing the Transformer for Modern Grids",
+    "url": "https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/",
+    "points": 8,
+    "username": "JumpCrisscross",
+    "comment_count": 2,
+    "story_id": "43666778",
+    "time": "2025-04-12T18:23:07",
+    "domain": "www.powermag.com"
+  },
+  {
+    "title": "The AI magic behind Sphere's upcoming 'The Wizard of Oz' experience",
+    "url": "https://blog.google/products/google-cloud/sphere-wizard-of-oz/",
+    "points": 14,
+    "username": "radeeyate",
+    "comment_count": 10,
+    "story_id": "43631931",
+    "time": "2025-04-09T13:38:39",
+    "domain": "blog.google"
+  },
+  {
+    "title": "You might not need WebSockets",
+    "url": "https://hntrl.io/posts/you-dont-need-websockets/",
+    "points": 359,
+    "username": "hntrl",
+    "comment_count": 229,
+    "story_id": "43659370",
+    "time": "2025-04-11T22:27:16",
+    "domain": "hntrl.io"
+  },
+  {
+    "title": "Vacheron Constantin breaks the world record for most complicated wristwatch",
+    "url": "https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria",
+    "points": 285,
+    "username": "bookofjoe",
+    "comment_count": 287,
+    "story_id": "43659365",
+    "time": "2025-04-11T22:26:41",
+    "domain": "www.hodinkee.com"
+  },
+  {
+    "title": "Google Is Winning on Every AI Front",
+    "url": "https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front",
+    "points": 676,
+    "username": "vinhnx",
+    "comment_count": 536,
+    "story_id": "43661235",
+    "time": "2025-04-12T03:58:50",
+    "domain": "www.thealgorithmicbridge.com"
+  },
+  {
+    "title": "Fedora change aims for 99% package reproducibility",
+    "url": "https://lwn.net/Articles/1014979/",
+    "points": 397,
+    "username": "voxadam",
+    "comment_count": 195,
+    "story_id": "43653672",
+    "time": "2025-04-11T13:40:26",
+    "domain": "lwn.net"
+  },
+  {
+    "title": "Rebuilding Prime Video UI with Rust and WebAssembly",
+    "url": "https://www.infoq.com/presentations/prime-video-rust/",
+    "points": 16,
+    "username": "8s2ngy",
+    "comment_count": 0,
+    "story_id": "43641183",
+    "time": "2025-04-10T06:19:42",
+    "domain": "www.infoq.com"
+  },
+  {
+    "title": "Adobe deletes Bluesky posts after backlash",
+    "url": "https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/",
+    "points": 475,
+    "username": "bookofjoe",
+    "comment_count": 575,
+    "story_id": "43653885",
+    "time": "2025-04-11T14:01:06",
+    "domain": "petapixel.com"
+  },
+  {
+    "title": "Intentionally Making Close Friends (2021)",
+    "url": "https://www.neelnanda.io/blog/43-making-friends",
+    "points": 275,
+    "username": "fi-le",
+    "comment_count": 75,
+    "story_id": "43619032",
+    "time": "2025-04-08T06:54:36",
+    "domain": "www.neelnanda.io"
+  },
+  {
+    "title": "Erlang's not about lightweight processes and message passing (2023)",
+    "url": "https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html",
+    "points": 299,
+    "username": "todsacerdoti",
+    "comment_count": 164,
+    "story_id": "43655221",
+    "time": "2025-04-11T15:50:49",
+    "domain": "stevana.github.io"
+  },
+  {
+    "title": "A 32-bit processor made with an atomically thin semiconductor",
+    "url": "https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/",
+    "points": 207,
+    "username": "PaulHoule",
+    "comment_count": 39,
+    "story_id": "43621378",
+    "time": "2025-04-08T13:08:49",
+    "domain": "arstechnica.com"
+  },
+  {
+    "title": "Why 'Prince Rupert's Drop' Glass Is Strong Enough to Shatter a Bullet (2023)",
+    "url": "https://www.popularmechanics.com/science/a40008994/why-the-prince-ruperts-drop-is-so-strong/",
+    "points": 53,
+    "username": "susam",
+    "comment_count": 19,
+    "story_id": "43639253",
+    "time": "2025-04-09T23:55:12",
+    "domain": "www.popularmechanics.com"
+  },
+  {
+    "title": "China Just Approved Flying Taxis – No Pilot Needed",
+    "url": "https://engineerine.com/chinas-flying-taxis/",
+    "points": 7,
+    "username": "JumpCrisscross",
+    "comment_count": 2,
+    "story_id": "43666773",
+    "time": "2025-04-12T18:22:42",
+    "domain": "engineerine.com"
+  },
+  {
+    "title": "Retro Computing Artifacts Stream",
+    "url": "https://retro-computing-stream.onrender.com/",
+    "points": 4,
+    "username": "indigodaddy",
+    "comment_count": 0,
+    "story_id": "43640204",
+    "time": "2025-04-10T02:57:43",
+    "domain": "retro-computing-stream.onrender.com"
+  },
+  {
+    "title": "C++: terser (shorter) lambda == SHORTY (ab-use?)",
+    "url": "https://github.com/hanickadot/shorty",
+    "points": 45,
+    "username": "signa11",
+    "comment_count": 14,
+    "story_id": "43629380",
+    "time": "2025-04-09T06:15:26",
+    "domain": "github.com"
+  },
+  {
+    "title": "Rust to C compiler – 95.9% test pass rate, odd platforms",
+    "url": "https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html",
+    "points": 231,
+    "username": "todsacerdoti",
+    "comment_count": 168,
+    "story_id": "43661329",
+    "time": "2025-04-12T04:21:15",
+    "domain": "fractalfir.github.io"
+  },
+  {
+    "title": "Blue Prince is a roguelike puzzle masterpiece",
+    "url": "https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/",
+    "points": 169,
+    "username": "adrianhon",
+    "comment_count": 98,
+    "story_id": "43628070",
+    "time": "2025-04-09T01:27:48",
+    "domain": "mssv.net"
+  }
+]

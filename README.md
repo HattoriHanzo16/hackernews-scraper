@@ -1,5 +1,7 @@
 # HackerNews Scraper
 
+![HackerNews Scraper Logo](docs/images/logo.png)
+
 A powerful and feature-rich web scraper for HackerNews that extracts story data, performs comprehensive analysis, and offers beautiful visualizations through both CLI and GUI interfaces.
 
 ## 🚀 Features
@@ -152,5 +154,3 @@ hackernews-scraper/
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
